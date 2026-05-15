@@ -19,9 +19,9 @@ The course is built around two outcomes: **product mindset** and **career awaren
 | # | Class | Theme | Duration | Status |
 |---|-------|-------|----------|--------|
 | 1 | [The Big Picture — 100 Years of AI in 45 Minutes](classes/class-01/README.md) | Historical sweep + current landscape | 40 min | ✅ Available |
-| 2 | [The AI Product Landscape — Inside OpenAI's Ecosystem](classes/class-02/README.md) | OpenAI models, API, and applications | 38 min | 🔜 Coming Soon |
-| 3 | [The AI Product Landscape — Inside Anthropic's Ecosystem](classes/class-03/README.md) | Anthropic's models, API, and safety philosophy | 40 min | 🔜 Coming Soon |
-| 4 | Prompting as a Skill — How to Think in AI | Prompt engineering + product thinking | 35 min | 🔒 Upcoming |
+| 2 | [The AI Product Landscape — Inside OpenAI's Ecosystem](classes/class-02/README.md) | OpenAI models, API, and applications | 38 min | ✅ Available |
+| 3 | [The AI Product Landscape — Inside Anthropic's Ecosystem](classes/class-03/README.md) | Anthropic's models, API, and safety philosophy | 40 min | ✅ Available |
+| 4 | [Google's AI Ecosystem + Vibe Coding a Scroll-Animated Site](classes/class-04/README.md) | Google's AI products + hands-on vibe coding | 45 min | 🔜 Coming Soon |
 | 5 | AI in the Real World — Six Industries Transformed | Domain-specific AI applications | 40 min | 🔒 Upcoming |
 | 6 | Generative AI — Images, Video, Audio and the Creative Revolution | Generative AI beyond text | 38 min | 🔒 Upcoming |
 | 7 | AI Agents — When AI Starts Taking Actions | Agentic AI + autonomous systems | 40 min | 🔒 Upcoming |
