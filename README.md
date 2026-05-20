@@ -22,7 +22,7 @@ The course is built around two outcomes: **product mindset** and **career awaren
 | 2 | [The AI Product Landscape — Inside OpenAI's Ecosystem](classes/class-02/README.md) | OpenAI models, API, and applications | 38 min | ✅ Available |
 | 3 | [The AI Product Landscape — Inside Anthropic's Ecosystem](classes/class-03/README.md) | Anthropic's models, API, and safety philosophy | 40 min | ✅ Available |
 | 4 | [Google's AI Ecosystem + Vibe Coding a Scroll-Animated Site](classes/class-04/README.md) | Google's AI products + hands-on vibe coding | 45 min | 🔜 Coming Soon |
-| 5 | [AI and GitHub — Git, Commands, and Versioning Basics](classes/class-05/README.md) | Git installation + core commands + version control | 40 min | 🔜 Coming Soon |
+| 5 | [AI and GitHub — Git, Commands, and Versioning Basics](classes/class-05/README.md) | Git installation + core commands + version control | 40 min | ✅ Available |
 | 6 | Generative AI — Images, Video, Audio and the Creative Revolution | Generative AI beyond text | 38 min | 🔒 Upcoming |
 | 7 | AI Agents — When AI Starts Taking Actions | Agentic AI + autonomous systems | 40 min | 🔒 Upcoming |
 | 8 | The Startup Story — How AI Companies Are Built | Entrepreneurship + AI venture landscape | 42 min | 🔒 Upcoming |

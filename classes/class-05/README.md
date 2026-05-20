@@ -10,7 +10,9 @@
 
 ## Video Recording
 
-> Coming Soon — check back after the session is uploaded.
+[![Watch Class 5](https://img.shields.io/badge/Watch-Class%205%20Recording-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1W4cIryr2s7YdS2-8fuuG9Bg6M6XZf_5F/view?usp=sharing)
+
+> Click the button above to watch the recorded session.
 
 ---
 
