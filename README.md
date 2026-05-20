@@ -23,7 +23,7 @@ The course is built around two outcomes: **product mindset** and **career awaren
 | 3 | [The AI Product Landscape — Inside Anthropic's Ecosystem](classes/class-03/README.md) | Anthropic's models, API, and safety philosophy | 40 min | ✅ Available |
 | 4 | [Google's AI Ecosystem + Vibe Coding a Scroll-Animated Site](classes/class-04/README.md) | Google's AI products + hands-on vibe coding | 45 min | 🔜 Coming Soon |
 | 5 | [AI and GitHub — Git, Commands, and Versioning Basics](classes/class-05/README.md) | Git installation + core commands + version control | 40 min | ✅ Available |
-| 6 | [Landing Page Development — Hero Sections and Techniques](classes/class-06/README.md) | Landing page structure + hero section design and build | 45 min | 🔜 Coming Soon |
+| 6 | [Landing Page Development — Hero Sections and Techniques](classes/class-06/README.md) | Landing page structure + hero section design and build | 45 min | ✅ Available |
 | 7 | AI Agents — When AI Starts Taking Actions | Agentic AI + autonomous systems | 40 min | 🔒 Upcoming |
 | 8 | The Startup Story — How AI Companies Are Built | Entrepreneurship + AI venture landscape | 42 min | 🔒 Upcoming |
 | 9 | Data — The Fuel That Powers AI | Data strategy + data products | 38 min | 🔒 Upcoming |
